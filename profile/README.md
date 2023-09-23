@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [main-unit](https://github.com/gp8-stopwatch/main-unit) - start here. It has a [Wiki](https://github.com/gp8-stopwatch/main-unit/wiki) and [Issues listing](https://github.com/gp8-stopwatch/main-unit/issues) for all other prohjects.
+* [main-unit-hardware](https://github.com/gp8-stopwatch/main-unit-hardware) - hardware (KiCAD EDA files and some generated documentation) for the main-unit device.
+* [receiver-hardware](https://github.com/gp8-stopwatch/receiver-hardware) - KiCAD for this small attacheable IR receiver.
